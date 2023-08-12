@@ -1,0 +1,16 @@
+extends:
+  - recommended
+theme:
+  openapi:
+    disableSearch: true
+    theme:
+      typography:
+        fontSize: 16px
+        lineHeight: 1.8
+        fontFamily: "-apple-system, 'BlinkMacSystemFont', 'Hiragino Kaku Gothic ProN', 'Hiragino Sans', Meiryo, sans-serif, 'Segoe UI Emoji'"
+        code:
+          fontSize: 15px
+          fontFamily: "SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace"
+        headings:
+          fontFamily: "inherit"
+          fontWeight: 700

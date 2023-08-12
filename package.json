@@ -1,0 +1,17 @@
+{
+  "name": "quiet-internet-api-docs",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "npx @redocly/cli preview-docs openapi.yaml -p 8081",
+    "build": "npx @redocly/cli build-docs openapi.yaml -o public/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catnose99/quiet-internet-api-docs.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/catnose99/quiet-internet-api-docs/issues"
+  }
+}

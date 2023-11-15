@@ -1,7 +1,7 @@
 # しずかなインターネット API Docs
 
 
-> **Warning**
+> [!WARNING]  
 > APIは現在ベータ版であり、仕様が変更される可能性があります。
 
 エンドポイントの一覧と仕様は[しずかなインターネット APIリファレンス](https://catnose99.github.io/quiet-internet-api-docs)をご確認ください。

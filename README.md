@@ -19,7 +19,8 @@
 
 エンドポイントのURLは`https://sizu.me/api/`から始まります。
 
-> **Warning**
+
+> [!WARNING]  
 > URLは**http**ではなく**https**で始まる必要があります。
 
 ## 認証

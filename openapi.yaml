@@ -15,6 +15,9 @@ externalDocs:
 security:
   - bearerAuth: []
 
+servers:
+  - url: https://sizu.me
+
 paths:
   "/api/v1/posts":
     get:
